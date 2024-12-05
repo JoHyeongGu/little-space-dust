@@ -2,10 +2,8 @@ using System.Drawing;
 using UnityEngine;
 using UnityEngine.UIElements;
 
-public class JoyStickController : MonoBehaviour
+public class JoyStickController : SingletonMono<JoyStickController>
 {
-    public static JoyStickController Instance { get; private set; }
-
     private VisualElement touchPad;
     private VisualElement touchFrame;
     private VisualElement touchCircle;
@@ -14,17 +12,9 @@ public class JoyStickController : MonoBehaviour
     private Vector3 firstPos = new();
     public Vector2 Move = Vector2.zero;
 
-    private void Awake()
+    protected override void Awake()
     {
-        if (Instance == null)
-        {
-            Instance = this;
-            DontDestroyOnLoad(gameObject);
-        }
-        else
-        {
-            Destroy(gameObject);
-        }
+        base.Awake();
     }
 
     private void OnEnable()

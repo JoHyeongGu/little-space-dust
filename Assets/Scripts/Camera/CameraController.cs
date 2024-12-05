@@ -1,12 +1,17 @@
 using UnityEngine;
 
-public class CameraController : MonoBehaviour
+public class CameraController : SingletonMono<CameraController>
 {
     public Transform target;
     public float smoothTime = 0.3f;
     public Vector3 offset;
 
     private Vector3 velocity = Vector3.zero;
+
+    protected override void Awake()
+    {
+        base.Awake();
+    }
 
     void LateUpdate()
     {
