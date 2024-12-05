@@ -1,0 +1,12 @@
+.inven-open-button {
+    height: 100%;
+    width: 100%;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-right: 10px;
+    padding-left: 10px;
+    background-color: rgba(188, 188, 188, 0);
+    background-image: resource('EnergyBag-Sheet');
+}
