@@ -32,6 +32,18 @@ public class JoyStickController : SingletonMono<JoyStickController>
         touchPad.RegisterCallback<PointerMoveEvent>(OnTouchMove);
     }
 
+    private void SetTouchFrame()
+    {
+        touchFrame = new VisualElement();
+        touchFrame.AddToClassList("touch-frame");
+        touchFrame.style.width = FrameSize.Width;
+        touchFrame.style.height = FrameSize.Height;
+
+        touchCircle = new VisualElement();
+        touchCircle.AddToClassList("touch-circle");
+        touchFrame.Add(touchCircle);
+    }
+
     private void OnTouchDown(PointerDownEvent touch)
     {
         firstPos = touch.position;
@@ -61,18 +73,6 @@ public class JoyStickController : SingletonMono<JoyStickController>
             touchCircle.transform.position = delta;
             Move = GetMoveVector(delta);
         }
-    }
-
-    private void SetTouchFrame()
-    {
-        touchFrame = new VisualElement();
-        touchFrame.AddToClassList("touch-frame");
-        touchFrame.style.width = FrameSize.Width;
-        touchFrame.style.height = FrameSize.Height;
-
-        touchCircle = new VisualElement();
-        touchCircle.AddToClassList("touch-circle");
-        touchFrame.Add(touchCircle);
     }
 
     private Vector3 GetMoveVector(Vector3 pos)

@@ -1,0 +1,8 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:VisualElement name="Frame" style="flex-grow: 1; width: 100%; height: 100%; align-items: center; justify-content: space-around;">
+        <engine:VisualElement name="Window" style="width: 70%; height: 50%; background-color: rgba(170, 170, 170, 0.72); border-top-left-radius: 50px; border-top-right-radius: 50px; border-bottom-right-radius: 50px; border-bottom-left-radius: 50px; padding-top: 50px; padding-right: 50px; padding-bottom: 50px; padding-left: 50px; margin-top: 50px; margin-right: 50px; margin-bottom: 50px; margin-left: 50px;">
+            <engine:VisualElement style="background-color: rgba(0, 0, 0, 0.8); height: 70%;" />
+            <engine:VisualElement style="background-color: rgba(0, 0, 0, 0.5); margin-top: 50px; border-top-left-radius: 30px; border-top-right-radius: 30px; border-bottom-right-radius: 30px; border-bottom-left-radius: 30px; height: auto; flex-grow: 1;" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>
