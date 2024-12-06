@@ -8,7 +8,6 @@ public class InventoryButton : Singleton<InventoryButton>
     private VisualElement frame;
     private Button element;
     private Sprite[] sprites;
-    private bool open;
 
     public InventoryButton()
     {
@@ -41,7 +40,7 @@ public class InventoryButton : Singleton<InventoryButton>
         int start = open ? 0 : sprites.Length - 1;
         int end = open ? sprites.Length - 1 : 0;
         int offset = start < end ? 1 : -1;
-        for (int i = start; i <= end; i += offset)
+        for (int i = start; open ? i <= end : i >= end; i += offset)
         {
             element.style.backgroundImage = new(sprites[i]);
             await Task.Delay(50);

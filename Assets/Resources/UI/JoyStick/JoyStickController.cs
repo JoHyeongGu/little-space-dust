@@ -44,16 +44,16 @@ public class JoyStickController : SingletonMono<JoyStickController>
         touchFrame.Add(touchCircle);
     }
 
-    private void OnTouchDown(PointerDownEvent touch)
+    private void OnTouchDown(PointerDownEvent point)
     {
-        firstPos = touch.position;
-        Vector2 touchPos = touch.localPosition;
+        firstPos = point.position;
+        Vector2 touchPos = point.localPosition;
         touchFrame.style.left = touchPos.x - (FrameSize.Width / 2);
         touchFrame.style.top = touchPos.y - (FrameSize.Height / 2);
         touchPad.Add(touchFrame);
     }
 
-    private void OnTouchUp(PointerUpEvent touch)
+    private void OnTouchUp(PointerUpEvent point)
     {
         touchCircle.transform.position = Vector3.zero;
         Move = Vector3.zero;
@@ -63,11 +63,11 @@ public class JoyStickController : SingletonMono<JoyStickController>
         }
     }
 
-    private void OnTouchMove(PointerMoveEvent touch)
+    private void OnTouchMove(PointerMoveEvent point)
     {
         if (touchFrame.Contains(touchCircle))
         {
-            Vector3 delta = touch.position - firstPos;
+            Vector3 delta = point.position - firstPos;
             delta.x = Mathf.Clamp(delta.x, -FrameSize.Width / 2, FrameSize.Width / 2);
             delta.y = Mathf.Clamp(delta.y, -FrameSize.Height / 2, FrameSize.Height / 2);
             touchCircle.transform.position = delta;

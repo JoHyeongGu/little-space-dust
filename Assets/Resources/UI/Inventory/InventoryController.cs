@@ -1,3 +1,4 @@
+using UnityEngine;
 using UnityEngine.UIElements;
 
 public class InventoryController : SingletonMono<InventoryController>
@@ -10,6 +11,8 @@ public class InventoryController : SingletonMono<InventoryController>
     protected override void Awake()
     {
         base.Awake();
+        Window = InventoryWindow.Instance;
+        OpenButton = InventoryButton.Instance;
     }
 
     private void OnEnable()
@@ -19,15 +22,23 @@ public class InventoryController : SingletonMono<InventoryController>
 
     private void InitElement()
     {
-        Window = InventoryWindow.Instance;
-        OpenButton = InventoryButton.Instance;
-        OpenButton.AddOnClick(AddWindowOnRoot);
         root = GetComponent<UIDocument>().rootVisualElement;
-        root.Add(OpenButton.GetElement());
+        Window.AddOnClose(() =>
+        {
+            OpenButton.Animate(open: false);
+            RemoveElement(Window.GetElement());
+        });
+        OpenButton.AddOnClick(() => { AddElement(Window.GetElement()); });
+        AddElement(OpenButton.GetElement());
     }
 
-    private void AddWindowOnRoot()
+    private void AddElement(VisualElement element)
     {
-        root.Add(Window.GetElement());
+        root.Add(element);
+    }
+
+    private void RemoveElement(VisualElement element)
+    {
+        root.Remove(element);
     }
 }
