@@ -1,0 +1,1757 @@
+fileFormatVersion: 2
+guid: 58b07a4da6fd4a24f9c63fa825306b22
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4120558741859029894
+    second: OunsEnergy_0
+  - first:
+      213: 2365354741556691014
+    second: OunsEnergy_1
+  - first:
+      213: 4704887306453211839
+    second: OunsEnergy_2
+  - first:
+      213: -1461422398685345271
+    second: OunsEnergy_3
+  - first:
+      213: 8442238254783216176
+    second: OunsEnergy_4
+  - first:
+      213: 5587156889674031755
+    second: OunsEnergy_5
+  - first:
+      213: -2975489397714028299
+    second: OunsEnergy_6
+  - first:
+      213: 7965221565043335018
+    second: OunsEnergy_7
+  - first:
+      213: -3909936995585630155
+    second: OunsEnergy_8
+  - first:
+      213: -6096425291014416823
+    second: OunsEnergy_9
+  - first:
+      213: -3804536594477650830
+    second: OunsEnergy_10
+  - first:
+      213: -1846523232791194175
+    second: OunsEnergy_11
+  - first:
+      213: -823217695199905525
+    second: OunsEnergy_12
+  - first:
+      213: -1304770929371951266
+    second: OunsEnergy_13
+  - first:
+      213: -6693388511471814499
+    second: OunsEnergy_14
+  - first:
+      213: -7536362838788585298
+    second: OunsEnergy_15
+  - first:
+      213: 8822168013686997587
+    second: OunsEnergy_16
+  - first:
+      213: -9089281667662796678
+    second: OunsEnergy_17
+  - first:
+      213: 6618123492063885052
+    second: OunsEnergy_18
+  - first:
+      213: -5860621117541849416
+    second: OunsEnergy_19
+  - first:
+      213: 7037842396960602309
+    second: OunsEnergy_20
+  - first:
+      213: 8782130161418913046
+    second: OunsEnergy_21
+  - first:
+      213: 6006146851159766441
+    second: OunsEnergy_22
+  - first:
+      213: -292316305468133014
+    second: OunsEnergy_23
+  - first:
+      213: 3034094344191145425
+    second: OunsEnergy_24
+  - first:
+      213: -918721765079403752
+    second: OunsEnergy_25
+  - first:
+      213: -4213340354289977813
+    second: OunsEnergy_26
+  - first:
+      213: -1383873624881422374
+    second: OunsEnergy_27
+  - first:
+      213: -1452117822341516534
+    second: OunsEnergy_28
+  - first:
+      213: 3577516289325138339
+    second: OunsEnergy_29
+  - first:
+      213: -3450264645892642289
+    second: OunsEnergy_30
+  - first:
+      213: 4027802771125906328
+    second: OunsEnergy_31
+  - first:
+      213: 8110974667251380461
+    second: OunsEnergy_32
+  - first:
+      213: -3019975009091619410
+    second: OunsEnergy_33
+  - first:
+      213: 2129967138775201116
+    second: OunsEnergy_34
+  - first:
+      213: -870940227612273270
+    second: OunsEnergy_35
+  - first:
+      213: -652528459107505339
+    second: OunsEnergy_36
+  - first:
+      213: 6426440160069486287
+    second: OunsEnergy_37
+  - first:
+      213: -2577315623201591982
+    second: OunsEnergy_38
+  - first:
+      213: 8928279741844583755
+    second: OunsEnergy_39
+  - first:
+      213: 4335660023495618643
+    second: OunsEnergy_40
+  - first:
+      213: 4938155707924715217
+    second: OunsEnergy_41
+  - first:
+      213: -8609042468927802396
+    second: OunsEnergy_42
+  - first:
+      213: 6270364643159980832
+    second: OunsEnergy_43
+  - first:
+      213: -3297423186348756441
+    second: OunsEnergy_44
+  - first:
+      213: -4004995224887648432
+    second: OunsEnergy_45
+  - first:
+      213: 8171479080571366084
+    second: OunsEnergy_46
+  - first:
+      213: -4466582677750492289
+    second: OunsEnergy_47
+  - first:
+      213: -4422197459515000486
+    second: OunsEnergy_48
+  - first:
+      213: 6108750317879000067
+    second: OunsEnergy_49
+  - first:
+      213: -8946657397992832582
+    second: OunsEnergy_50
+  - first:
+      213: 7810608135842683904
+    second: OunsEnergy_51
+  - first:
+      213: -6653211902218140587
+    second: OunsEnergy_52
+  - first:
+      213: -6363442263619241727
+    second: OunsEnergy_53
+  - first:
+      213: -2392171900424694184
+    second: OunsEnergy_54
+  - first:
+      213: -6881092060897591082
+    second: OunsEnergy_55
+  - first:
+      213: -8496020885429177580
+    second: OunsEnergy_56
+  - first:
+      213: -8607737331796558592
+    second: OunsEnergy_57
+  - first:
+      213: -2490753806362994070
+    second: OunsEnergy_58
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: energy_center
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68353a4185a2f2930800000000000000
+      internalID: 4120558741859029894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_merge_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640c542fa9d63d020800000000000000
+      internalID: 2365354741556691014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_merge_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba5361e31e1b4140800000000000000
+      internalID: 4704887306453211839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_merge_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a8f83421cf7bbe0800000000000000
+      internalID: -1461422398685345271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_merge_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a319db6fad82570800000000000000
+      internalID: 8442238254783216176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_merge_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82a561d691998d40800000000000000
+      internalID: 5587156889674031755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_merge_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f870585820f4b6d0800000000000000
+      internalID: -2975489397714028299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 189
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6f50b5dfc62a8e60800000000000000
+      internalID: 7965221565043335018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_down_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530e5fba40d1db9c0800000000000000
+      internalID: -3909936995585630155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_down_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 162
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946d0618f75256ba0800000000000000
+      internalID: -6096425291014416823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_down_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 162
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27c6f27ef12933bc0800000000000000
+      internalID: -3804536594477650830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_down_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 162
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c599ff27e4df56e0800000000000000
+      internalID: -1846523232791194175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_down_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 162
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b093bc82ed75394f0800000000000000
+      internalID: -823217695199905525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_down_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 162
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f4781b0c584ede0800000000000000
+      internalID: -1304770929371951266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_down_0
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 162
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d98ba06ac9e4c13a0800000000000000
+      internalID: -6693388511471814499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_down_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 162
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea84d8f6de5796790800000000000000
+      internalID: -7536362838788585298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_down_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35280ac0113ae6a70800000000000000
+      internalID: 8822168013686997587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_down_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 135
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a782d77fa726cd180800000000000000
+      internalID: -9089281667662796678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_down_4
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 135
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6b220704c48db50800000000000000
+      internalID: 6618123492063885052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_down_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 135
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6e3cdf424eaaea0800000000000000
+      internalID: -5860621117541849416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_down_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 135
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c835083f507ba160800000000000000
+      internalID: 7037842396960602309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_up_0
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 135
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6154e922ad460e970800000000000000
+      internalID: 8782130161418913046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_up_1
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 135
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5753c3dbe1a5350800000000000000
+      internalID: 6006146851159766441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_up_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 135
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6174827edb71fbf0800000000000000
+      internalID: -292316305468133014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_up_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d5f8801bb44b1a20800000000000000
+      internalID: 3034094344191145425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_up_4
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 108
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813b5091c6b0043f0800000000000000
+      internalID: -918721765079403752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_up_5
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 108
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b263ab065453785c0800000000000000
+      internalID: -4213340354289977813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_up_6
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 108
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adf19ee254e7bcce0800000000000000
+      internalID: -1383873624881422374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_up_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 108
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a03f153c88a09dbe0800000000000000
+      internalID: -1452117822341516534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_up_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 108
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a106635c14e5a130800000000000000
+      internalID: 3577516289325138339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_up_2
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 108
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0aea78b5923e10d0800000000000000
+      internalID: -3450264645892642289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_up_3
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 108
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b2b46b741a5e730800000000000000
+      internalID: 4027802771125906328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_up_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0f5bf6c78ff8070800000000000000
+      internalID: 8110974667251380461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_up_5
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 81
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea57980dab4e616d0800000000000000
+      internalID: -3019975009091619410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_up_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 81
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5573f1e3d92f8d10800000000000000
+      internalID: 2129967138775201116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_0
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 81
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8592983a7cc9e3f0800000000000000
+      internalID: -870940227612273270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 81
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b601dd2d0c1f6f0800000000000000
+      internalID: -652528459107505339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_2
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 81
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc60f3fd64d4f2950800000000000000
+      internalID: 6426440160069486287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_3
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 81
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25d210d88198b3cd0800000000000000
+      internalID: -2577315623201591982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_4
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 81
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4576f30f1f97eb70800000000000000
+      internalID: 8928279741844583755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350715fe1db5b2c30800000000000000
+      internalID: 4335660023495618643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_right_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 54
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d69b60f37ad78440800000000000000
+      internalID: 4938155707924715217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_down_0
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e37e47bc79868880800000000000000
+      internalID: -8609042468927802396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_down_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 54
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b38bfcb6fc40750800000000000000
+      internalID: 6270364643159980832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_down_2
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 54
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722bb8f15133d32d0800000000000000
+      internalID: -3297423186348756441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_down_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 54
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f9f65ff066b68c0800000000000000
+      internalID: -4004995224887648432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_down_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 54
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4caedfeedece66170800000000000000
+      internalID: 8171479080571366084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_down_5
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 54
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f73d4c438b28302c0800000000000000
+      internalID: -4466582677750492289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_down_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5939f227d231a2c0800000000000000
+      internalID: -4422197459515000486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c7bbe6c04a6c450800000000000000
+      internalID: 6108750317879000067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_1
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 27
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab144897f7617d380800000000000000
+      internalID: -8946657397992832582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_2
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 27
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00cdda897bad46c60800000000000000
+      internalID: 7810608135842683904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 27
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55403e0760b0ba3a0800000000000000
+      internalID: -6653211902218140587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_4
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 27
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1097448e9f280b7a0800000000000000
+      internalID: -6363442263619241727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_5
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 27
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856d381b45c4dced0800000000000000
+      internalID: -2392171900424694184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_left_6
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 27
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0407b6a337180a0800000000000000
+      internalID: -6881092060897591082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_up_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413b1bfb402181a80800000000000000
+      internalID: -8496020885429177580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_up_1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00db562a08c2b8880800000000000000
+      internalID: -8607737331796558592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_up_2
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a18c41c901f6dd0800000000000000
+      internalID: -2490753806362994070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_up_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78481bd45c46004fb3fe3b825567416
+      internalID: 416330851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_up_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d8d9b2ab89f964a897c019b1ac9214
+      internalID: -459259309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_up_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f3a0dbb42fef34491efda642f81bb6
+      internalID: 1186986779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: energy_up_6
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ef20f7e8649204aa355f41adfce029
+      internalID: -304987721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5776d26583025644b8a1d89587e20df2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      0: -8609042468927802396
+      energy: 7965221565043335018
+      energy_center: 4120558741859029894
+      energy_down_0: -8609042468927802396
+      energy_down_1: 6270364643159980832
+      energy_down_2: -3297423186348756441
+      energy_down_3: -4004995224887648432
+      energy_down_4: 8171479080571366084
+      energy_down_5: -4466582677750492289
+      energy_down_6: -4422197459515000486
+      energy_left_0: 6108750317879000067
+      energy_left_1: -8946657397992832582
+      energy_left_2: 7810608135842683904
+      energy_left_3: -6653211902218140587
+      energy_left_4: -6363442263619241727
+      energy_left_5: -2392171900424694184
+      energy_left_6: -6881092060897591082
+      energy_left_down_0: -6693388511471814499
+      energy_left_down_1: -7536362838788585298
+      energy_left_down_2: 8822168013686997587
+      energy_left_down_3: -9089281667662796678
+      energy_left_down_4: 6618123492063885052
+      energy_left_down_5: -5860621117541849416
+      energy_left_down_6: 7037842396960602309
+      energy_left_up_0: 8782130161418913046
+      energy_left_up_1: 6006146851159766441
+      energy_left_up_2: -292316305468133014
+      energy_left_up_3: 3034094344191145425
+      energy_left_up_4: -918721765079403752
+      energy_left_up_5: -4213340354289977813
+      energy_left_up_6: -1383873624881422374
+      energy_merge_0: 2365354741556691014
+      energy_merge_1: 4704887306453211839
+      energy_merge_2: -1461422398685345271
+      energy_merge_3: 8442238254783216176
+      energy_merge_4: 5587156889674031755
+      energy_merge_5: -2975489397714028299
+      energy_right_0: -870940227612273270
+      energy_right_1: -652528459107505339
+      energy_right_2: 6426440160069486287
+      energy_right_3: -2577315623201591982
+      energy_right_4: 8928279741844583755
+      energy_right_5: 4335660023495618643
+      energy_right_6: 4938155707924715217
+      energy_right_down_0: -3909936995585630155
+      energy_right_down_1: -6096425291014416823
+      energy_right_down_2: -3804536594477650830
+      energy_right_down_3: -1846523232791194175
+      energy_right_down_4: -823217695199905525
+      energy_right_down_5: -1304770929371951266
+      energy_right_up_0: -1452117822341516534
+      energy_right_up_1: 3577516289325138339
+      energy_right_up_2: -3450264645892642289
+      energy_right_up_3: 4027802771125906328
+      energy_right_up_4: 8110974667251380461
+      energy_right_up_5: -3019975009091619410
+      energy_right_up_6: 2129967138775201116
+      energy_up_0: -8496020885429177580
+      energy_up_1: -8607737331796558592
+      energy_up_2: -2490753806362994070
+      energy_up_3: 416330851
+      energy_up_4: -459259309
+      energy_up_5: 1186986779
+      energy_up_6: -304987721
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

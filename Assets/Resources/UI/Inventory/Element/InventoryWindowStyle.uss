@@ -1,0 +1,19 @@
+.window-content {
+    width: 70%;
+    height: 50%;
+    background-color: rgba(170, 170, 170, 0.72);
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    transition-duration: 0.5s;
+    transition-timing-function: ease-in-out;
+}

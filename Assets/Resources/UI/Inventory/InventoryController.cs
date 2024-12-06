@@ -34,11 +34,13 @@ public class InventoryController : SingletonMono<InventoryController>
 
     private void AddElement(VisualElement element)
     {
-        root.Add(element);
+        if (!root.Contains(element))
+            root.Add(element);
     }
 
     private void RemoveElement(VisualElement element)
     {
-        root.Remove(element);
+        if (root.Contains(element))
+            root.Remove(element);
     }
 }

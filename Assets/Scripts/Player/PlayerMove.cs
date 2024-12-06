@@ -7,13 +7,14 @@ public class PlayerMove
     private NavMeshAgent agent;
     private float speed;
 
-    public PlayerMove(GameObject gameObject, float speed)
+    public PlayerMove(Player player, float speed = 0)
     {
-        rigid = gameObject.GetComponent<Rigidbody2D>();
-        agent = gameObject.GetComponent<NavMeshAgent>();
+
+        this.speed = speed;
+        rigid = player.GetComponent<Rigidbody2D>();
+        agent = player.GetComponent<NavMeshAgent>();
         agent.updateRotation = false;
         agent.updateUpAxis = false;
-        this.speed = speed;
     }
 
     public void Move()
